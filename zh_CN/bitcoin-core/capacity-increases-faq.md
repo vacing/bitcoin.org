@@ -23,6 +23,7 @@ moved_url: "https://bitcoincore.org/zh_CN/2015/12/21/%E7%B3%BB%E7%BB%9F%E6%89%A9
 
 在[路线图][roadmap]提及到以下的技术，在充分的测试后，预计可以在以下时间完成。
 
+| 时间      | 版本 | 内容
 | 2015年12月 | | 隔离见证测试网 |
 | 2016年2月 | 0.12.0 | [libsecp256k1验证][libsecp256k1 verification] |
 | 2016年2月 | | 隔离见证功能完成并作审核 |
